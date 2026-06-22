@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=dev-parkynh&fontSize=60&fontColor=e2e8f0&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Developer&descSize=18&descAlignY=58&descColor=94a3b8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=dev-parkynh&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%26%20Backend%20Developer&descAlignY=55&descFontColor=7ec8e3)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%EB%B0%95%EC%9A%A9%ED%9D%AC+%F0%9F%91%8B;Full-Stack+%26+Backend+Developer;Java+%7C+Spring+Boot+%7C+C%23;React+%7C+Node.js+%7C+AWS)](https://git.io/typing-svg)
 
